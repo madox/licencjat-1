@@ -1,4 +1,4 @@
-# Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW
+# Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW (CHWYTYLIWY TEMAT?)
 Praca licencjacka
 
 ### Wstęp ( DO SKRÓCENIA I ULEPSZENIA )
@@ -26,3 +26,10 @@ Opierając się na moim doświadczeniu zawodowym, które pozwala mi stykać się
 
 ### Keywords
 bezpieczeństwo, aplikacje WWW, PHP, swiadomosc, SQL, JS, luki bezpieczeństwa, programowanie
+
+
+
+## Pytania
+1. Na czym się lepiej skupić? Rozpoznanie luk bezpieczeństwa występujace w sieci czy może jak zabezpieczać takie luki?
+1. Czy warto wchodzić w aspekty prawne? Np. Certyfikaty ISO czy GIODO
+1. Na którym z ataków najlepiej się skupić?
