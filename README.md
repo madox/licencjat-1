@@ -1,7 +1,7 @@
-# Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW (CHWYTYLIWY TEMAT?)
+# Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW //(CHWYTYLIWY TEMAT?)
 Praca licencjacka
 
-### Wstęp ( DO SKRÓCENIA I ULEPSZENIA )
+### Wstęp //( DO SKRÓCENIA I ULEPSZENIA )
 W erze Internetu rośnie ilość i znaczenie aplikacji WWW oraz danych przez nie zarządzanych. Wraz ze złożonością systemów rosną też potencjalne zagrożenia oraz ich skutki. Niestety ogólna świadomość wagi tej dziedziny jest zaniedbywana z wielu względów. Nie poprawia też stanu rzeczy niewielka ilość aktualnych pozycji naukowych ponieważ ze względu na częste zmiany szybko stają się nieadekwatne do realiów.
 
 Istnieją normy bezpieczeństwa (PN-ISO/IEC 27001:2014-12) jednak w praktyce rzadko kiedy możemy ich doświadczyć. Tak samo sprawa wygląda z metodykami, które istnieją (opracowane na przykład przez SANS czy OWASP), ale prawie nieznane w środowisku programistycznym. Istnienie problemu może jednak wykazywać działanie specjalnych instytucji jak Ministerstwo Cyfryzacji czy CERT Polska, które zajmują się bezpieczeństwem sieci.
