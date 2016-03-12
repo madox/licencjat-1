@@ -1,2 +1,3 @@
-# licencjat
-Praca licencjacka
+# Praca licencjacka
+
+Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW
