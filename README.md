@@ -1,3 +1,8 @@
-# Praca licencjacka
+# Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW
+Praca licencjacka
 
-Bezpieczeństwo - rosnące zagrożenia dla aplikacji WWW
+### Wstep
+TODO
+
+### Keywords
+bezpieczeństwo, aplikacje WWW, PHP, swiadomosc, SQL, JS, luki bezpieczeństwa, programowanie
