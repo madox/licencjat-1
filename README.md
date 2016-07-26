@@ -12,7 +12,7 @@ bezpieczeństwo, aplikacje WWW, PHP, swiadomosc, SQL, JS, luki bezpieczeństwa, 
 
 > Aspekt bezpieczeństwa aplikacji WWW jest tylko drobną częścią tzw. „cyberbezpieczeństwa”, ale warto się tym zająć bo jest często zaniedbywane, a po drugie może być pierwszym krokiem (wektorem) ataku na dane wykorzystywane później  do elewacji dostępu do reszty infrastruktury. Na przykład opisany w raporcie „Data breach digest”4 atak typu „CMS compromise” służący do wykradzenia danych autentykacyjnych wykorzystywany jest do wykorzystania kolejnych luk bezpieczeństwa.
 
-  > Z wielu warstw internetu (serwery, węzły wymiany danych, bazy danych) to właśnie aplikacje WWW są w ostatnim czasie najbardziej zaniedbywane pod względem bezpieczeństwa. Dzieje się tak przez brak świadomości gnającego postępu i potrzeby udoskonalania zabezpieczeń, zwykłe cięcia budżetowe czy zbyt duża ufność w gotowe rozwiązania programistyczne.  Często też jest to bagatelizowane ponieważ nie pojawiają się natychmiastowe i bezpośrednie szkody. Mimo tego skutki mogą doprowadzić od zwykłego ośmieszenia (twórcy czy właściciela), przez straty finansowe po konsekwencje karne.
+> Z wielu warstw internetu (serwery, węzły wymiany danych, bazy danych) to właśnie aplikacje WWW są w ostatnim czasie najbardziej zaniedbywane pod względem bezpieczeństwa. Dzieje się tak przez brak świadomości gnającego postępu i potrzeby udoskonalania zabezpieczeń, zwykłe cięcia budżetowe czy zbyt duża ufność w gotowe rozwiązania programistyczne.  Często też jest to bagatelizowane ponieważ nie pojawiają się natychmiastowe i bezpośrednie szkody. Mimo tego skutki mogą doprowadzić od zwykłego ośmieszenia (twórcy czy właściciela), przez straty finansowe po konsekwencje karne.
 
 ###Spis treści
 * Rosnące zagrożenia dla aplikacji WWW
